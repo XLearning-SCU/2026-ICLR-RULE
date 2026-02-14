@@ -8,7 +8,7 @@ Dual-level Noisy Correspondence (**DNC**) refers to misalignments in both intra-
 
 DNC would not only undermine the fusion of within-entity attributes but also misleading the inter-graph alignment, both of which significantly degrade the performance.
 
-![fig1](.\figs\fig1.png)
+![fig1](./figs/fig1.png)
 
 ## 🚀 Contribution
 
@@ -16,7 +16,7 @@ DNC would not only undermine the fusion of within-entity attributes but also mis
 - During inference, RULE employs a novel correspondence reasoning module to uncover inherentlyidentical attributes and accordingly achieve more precise cross-graph equivalent entity identification. To the best of our knowledge, this could be one of the first methods to enhance test-time robustness for the MMEA task.
 - We provide comprehensive benchmarks for evaluation on robustness against DNC. 
 
-![fig2](.\figs\fig2.png)
+![fig2](./figs/fig2.png)
 
 ## 🛠️ Requirements & Installation
 
